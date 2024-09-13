@@ -1,0 +1,1176 @@
+Reasons for order stuck,Classification of problems
+Provincial resources are being adjusted ,Reasons for the provincial system 
+The research institute plan is being determined. ,Reasons for the group system 
+Provincial resource network ASBR resource allocation has not been returned ,Data issues 
+Provincial resource network ASBR resource allocation has not been returned ,Data issues 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+"In the test environment, the initial message issued by the group lacks nodes: prodResources, reissue is normal; provincial arrangement has successfully distributed provincial resources, but the provincial resource reply needs to be reissued after the previous VLAN withdrawal. ",Reasons for the design center plan 
+"Provincial resources, the address is not associated with U and A devices. ",Data issues 
+Provincial arrangement without reply ,Reasons for the provincial system 
+Provincial arrangement without reply ,Reasons for the provincial system 
+Provincial arrangement without reply ,Reasons for the provincial system 
+IPRAN PW access to RFS_No receipt in the province ,Reasons for the provincial system 
+IPRAN PW access to RFS_No receipt in the province ,Reasons for the provincial system 
+"PON migration process, the whole process of testing before disassembly, looking for a design center, need to add this link to the group design center and group choreography for follow-up testing. It has been invalidated ",Reasons for the design center plan 
+"PON migration process, the whole process of testing before disassembly, looking for a design center, need to add this link to the group design center and group choreography for follow-up testing. ",Reasons for the design center plan 
+"It was sent when the machine was moved and disassembled. When the machine was moved and installed, the delivery was wrong.",Reasons for the design center plan 
+"It was sent when the machine was moved and disassembled. When the machine was moved and installed, the delivery was wrong. ",Reasons for the design center plan 
+Provincial resource configuration relay name error ,Reasons for the provincial system 
+OTMS has no test environment and is forced to pass the order. ,Data issues 
+"The originally allocated relay port is occupied, and the available port of the link is to be redistributed. ",Reasons for the provincial system 
+Provincial resource OTN convergence equipment callback relay link is empty ,Data issues 
+The link information is not queried according to the link name. ,Data issues 
+No data was obtained according to the name of the input link. ,Data issues 
+IPRAN PW access to RFS_No receipt in the province ,Reasons for the provincial system 
+IPRAN PW access to RFS_No receipt in the province ,Reasons for the provincial system 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+"The provincial orchestration system has not found it, and there is no joint adjustment record. It is suspected that it is the reason for placing the order. ",To be determined (other reasons) (write notes) 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+Provincial resource process problems make it impossible to circulate and need to be stopped. ,Reasons for the group system 
+Provincial resource process problems make it impossible to circulate and need to be stopped. ,Reasons for the group system 
+Operation problems in the province. Repeated orders due to an unfinished work order ,Data issues 
+"The relevant interface address of provincial OTN access resource configuration has not been filled in the online document, and the order cannot be sent. ",Reasons for the provincial system 
+The relay can't be found. ,Data issues 
+And other provincial resources OTN aggregation equipment resource allocation return ,Reasons for the provincial system 
+The call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api has not been received. The group arrangement and re-adjustment has passed the order. ,Collaborative dependence 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api The group's arrangement and re-adjustment has been sent to provincial resources. Provincial resources 3A circuit callback relay and opposite-end circuit are repeated.,Reasons for the provincial system 
+Provincial arrangement without reply ,Reasons for the provincial system 
+The problem of network configuration strategy has been fed back to the cloud effect. ,Reasons for the design center plan 
+The problem of network configuration strategy has been fed back to the cloud effect. ,Reasons for the design center plan 
+"Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api The group's arrangement problem has been re-adjusted, and the order has been replied. ",Collaborative dependence 
+"No resource construction and mining process test list, there is a problem with the process in the province, invalid ",Data issues 
+"The old plane test sheet of pon has been abandoned, and the PON test is subject to the latest test sheet. ",Data issues 
+"The old plane test sheet of pon has been abandoned, and the PON test is subject to the latest test sheet. ",Data issues 
+"The old plane test sheet of pon has been abandoned, and the PON test is subject to the latest test sheet. ",Data issues 
+OTMS has no test environment and is forced to pass the order. ,Data issues 
+"The original circuit has been shut down, and you need to place a new order to verify the problem. ",Reasons for the group system 
+Provincial resource allocation VLAN is duplicated with other in-way orders. ,Reasons for the provincial system 
+Misoperation in the province ,Data issues 
+Please ask the design center to check whether the process is correct. ,Data issues 
+It has stopped. ,Reasons for the provincial system 
+OTMS has no test environment and is forced to pass the order. ,Data issues 
+Research institute program problems ,Reasons for the design center plan 
+The address is wrong and has been stopped.,Data issues 
+"SDN_CN2PE_OTN-CN2 three-layer VPN access_installation_device configuration_link reverse card list, waste order, group arrangement has adjusted the shutdown process ",Reasons for the design center plan 
+OTMS has no test environment and is forced to pass the order. ,Data issues 
+"Group arrangement interface problem, deal with ",Reasons for the group system 
+"RES_IP_CN2PE_MPLS_L3VPN_configuration new_link, waste order, to be adjusted and developed by the group ",Reasons for the group system 
+OTMS has no test environment and is forced to pass the order. ,Data issues 
+"Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api The group's arrangement has been dealt with and re-adjusted, and it has been issued to the province, and the name of the provincial resource return order does not exist. ",Reasons for the provincial system 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+The test list is invalid. ,Data issues 
+OTMS has no test environment and is forced to pass the order. ,Data issues 
+OTMS has no test environment and is forced to pass the order. ,Data issues 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+The test list is invalid. ,Data issues 
+Waiting for the provincial resource archiving callback ,Data issues 
+"At that time, 5G access had not been started, and the order could not be opened through PSR; the order problem ",To be determined (other reasons) (write notes) 
+CRM has not been issued ,Reasons for the group system 
+In the waiting process of dependence ,Collaborative dependence 
+In the waiting process of dependence ,Collaborative dependence 
+In the waiting process of dependence ,Collaborative dependence 
+In the waiting process of dependence ,Collaborative dependence 
+In the waiting process of dependence ,Collaborative dependence 
+In the waiting process of dependence ,Collaborative dependence 
+Wait for the provincial resource network ASBR equipment resource allocation return ,Data issues 
+Caused by the misoperation of the re-dissiption button in the province ,Reasons for the provincial system 
+In the waiting process of dependence ,Collaborative dependence 
+In the waiting process of dependence ,Collaborative dependence 
+In the waiting process of dependence ,Collaborative dependence 
+Caused by the misoperation of the re-dissiption button in the province ,Data issues 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api The group's choreography problem is re-adjusted and sent to provincial resources. The abnormal asynchronous callback of provincial resources cannot find the circuit information according to the circuit code. ,Data issues 
+The problem of placing an order ,To be determined (other reasons) (write notes) 
+Test list for January ,To be determined (other reasons) (write notes) 
+Test list for January ,To be determined (other reasons) (write notes) 
+Test list for January ,To be determined (other reasons) (write notes) 
+The test list is invalid. ,Data issues 
+Stop and try again. ,Reasons for the group system 
+"The old plane test sheet of pon has been abandoned, and the PON test is subject to the latest test sheet. ",Data issues 
+"The old plane test sheet of pon has been abandoned, and the PON test is subject to the latest test sheet. ",Data issues 
+"The old plane test sheet of pon has been abandoned, and the PON test is subject to the latest test sheet. ",Data issues 
+"The CRM interface was not adjusted, and it was not successful until it was re-adjusted. ",Reasons for the group system 
+IPRAN PW access to RFS_installation_on-site construction_link (on-site construction) waiting for the group to release dependence and wait ,Data issues 
+Provincial arrangement of unanalyzed processes and waste orders ,Reasons for the provincial system 
+"Standard address unbound equipment, waste orders ",Reasons for the provincial system 
+"Standard address unbound equipment, waste orders ",Reasons for the provincial system 
+"CFS cloud private network product_installation_service design_link abnormal professional labor, service_id violates the limit of not empty ",Reasons for the provincial system 
+The resource allocation card has not been processed manually. ,Reasons for the provincial system 
+Stop and try again. ,Reasons for the group system 
+JIPRAN PW access to RFS_resource configuration rollback processing,Reasons for the provincial system 
+Ungenerated process links ,Reasons for the group system 
+"The order is the previous test order, which is no longer needed and can be discarded. ",Data issues 
+"The group's choreography process was wrong, and the rate change was directly archived. ",Data issues 
+Caused by misoperation in the province ,Data issues 
+Local network group CRM has not been imported into CE_COUNTRY district and county field ,Data issues 
+Cloud tone response error ,Reasons for the group system 
+The group resource RFS test data has been deleted and the process cannot be archived. ,Reasons for the group system 
+As a result of server restart ,Reasons for the provincial system 
+The local network could not open business at that time. ,To be determined (other reasons) (write notes) 
+Repeat the order,Reasons for the group system 
+"Due to the lack of nodes in downstream feedback, the group's arrangement increases the verification and the increase of verification.",Reasons for the provincial system 
+Provincial resource data issues ,Reasons for the provincial system 
+Downstream response ,Reasons for the group system 
+"Due to the lack of nodes in downstream feedback, the group's arrangement increases the verification and the increase of verification.",Reasons for the provincial system 
+"Due to the lack of nodes in downstream feedback, the group's arrangement increases the verification and the increase of verification.",Reasons for the provincial system 
+Waste order ,Data issues 
+The reason has not been identified for a long time.,To be determined (other reasons) (write notes) 
+OTMS has no test environment and is forced to pass the order. ,Data issues 
+And other provincial resources OTN aggregation equipment resource allocation return ,Reasons for the provincial system 
+And other provincial resources OTN aggregation equipment resource allocation return ,Reasons for the provincial system 
+Provincial resources to be returned ,Reasons for the group system 
+"OTN Ethernet link RFS_resource configuration_link, return exception, request message format verification exception ",Reasons for the provincial system 
+OTN Ethernet link RFS_on-site construction_api no reply ,Reasons for the provincial system 
+"The provincial resource allocation rules have not yet been determined, and some equipment and attribute resources have not yet been managed, resulting in the inability to configure the return order normally. ",Reasons for the provincial system 
+Waste order ,Data issues 
+"The group arrangement has been dealt with, resulting in misoperation in the province. ",Data issues 
+The provincial resource callback interface is empty. ,Reasons for the provincial system 
+"Due to the lack of nodes in downstream feedback, the group's arrangement increases the verification and the increase of verification.",Reasons for the provincial system 
+Mandatory order ,Data issues 
+Intra-provincial interface ,Reasons for the provincial system 
+The group's long-distance resource interface has not been called back and responded. Just re-adjust it. ,Reasons for the group system 
+"Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api The group's arrangement problem will be re-adjusted and sent to the provincial resources, waiting for the provincial resource return. ",Reasons for the provincial system 
+Operation problems in the province ,Data issues 
+Stop and try again. ,Reasons for the group system 
+"The test environment data in the province is missing, and the automatic configuration has not been completed. ",Reasons for the provincial system 
+"The two-way verification interface of the group's resources is reported to 400, which affects the interconnection IP verification, and can be re-adjusted in the province. ",Reasons for the group system 
+The development of the group CRM is suspended and cannot be sent to the group service. Reasons for group arrangement and inspection ,Reasons for the group system 
+You can't issue a business if you place an order on the local network. ,To be determined (other reasons) (write notes) 
+"Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api The group's arrangement problem has been re-adjusted and has been sent to the provincial resources, waiting for the provincial resources to be returned. ",Reasons for the provincial system 
+"Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api The group's arrangement problem has been re-adjusted and has been sent to the provincial resources, waiting for the provincial resources to be returned. ",Data issues 
+It has stopped. ,Reasons for the provincial system 
+Local network arrangement has not been transmitted to CE_COUNTRY district and county fields ,Reasons for the group system 
+Mandatory order ,Data issues 
+Provincial resource OTN convergence equipment callback relay link is empty ,Reasons for the provincial system 
+"Multiple sets of data are configured during manual processing in the province, and the return order cannot be completed. ",Data issues 
+Provincial resource OTN convergence equipment callback relay link is empty ,Reasons for the provincial system 
+Mandatory order ,Data issues 
+Mandatory order ,Data issues 
+"The relevant interface address of OTN access is not provided when placing the order, and the order cannot be dispatched. At present, the rollback of the service design has been carried out, which is not in this link. ",To be determined (other reasons) (write notes) 
+OTN Ethernet link RFS_resource configuration_link no return ,Reasons for the provincial system 
+OTN-CN2 three-layer VPN access RFS_resource configuration_link no return order ,Reasons for the provincial system 
+The local network could not open business at that time. ,To be determined (other reasons) (write notes) 
+Waiting on dependence ,Collaborative dependence 
+This work order has not been found in the province. ,Data issues 
+The relay link information configured in the province is inconsistent with that of the group. ,Reasons for the provincial system 
+The problem of placing an order ,Data issues 
+"The call to the group's arrangement of IPRAN-CN2 three-layer EVPN access to RFS_resource configuration_api was not received. The group's arrangement problem has been re-adjusted and has been sent to the provincial resources, waiting for the provincial resources to be returned. ",Reasons for the provincial system 
+"At present, the provincial control test environment can only be manually confirmed and returned. At present, the order has been returned. ",Reasons for the provincial system 
+"The provincial orchestration system has not found it, and there is no joint adjustment record. It is suspected that it is the reason for placing the order. ",Data issues 
+Abnormal resource allocation of access segments in the province,Data issues 
+"Due to the lack of nodes in downstream feedback, the group's arrangement increases the verification and the increase of verification.",Reasons for the provincial system 
+"The new installation of the order in the province has not been archived, and the disassembly process will be carried out.",To be determined (other reasons) (write notes) 
+The user IP segment issued is not compliant. ,Reasons for the group system 
+"Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api The group's arrangement problem has been re-adjusted and has been sent to the provincial resources, waiting for the provincial resources to be returned. ",Collaborative dependence 
+"Provincial resource OTN aggregation equipment resource configuration return exception: 'In the cloud private network 3.0 IPRAN, 5G, OTN multi-A scenario, the associated product instance id is empty, the data is incomplete and the resource allocation cannot be carried out, and the configuration fails!' ",Reasons for the provincial system 
+OTN Ethernet link RFS_resource configuration_link no return ,Data issues 
+Provincial resources OTN aggregation equipment resource allocation has not been returned ,Data issues 
+OTN Ethernet link RFS_resource configuration_link no return ,Data issues 
+Provincial resources OTN aggregation equipment resource allocation has not been returned ,Data issues 
+Mandatory order ,Data issues 
+Mandatory order ,Data issues 
+"Archived, no abnormality ",To be determined (other reasons) (write notes) 
+"The new installation of the order in the province has not been archived, and the disassembly process will be carried out.",Reasons for the group system 
+The relay link information configured in the province is inconsistent with that of the group. ,Reasons for the provincial system 
+The problem of placing an order ,Data issues 
+Stop and try again. ,Reasons for the group system 
+Test order ,Data issues 
+Test order ,Data issues 
+The test list is invalid. ,Data issues 
+"There is no configured port in the test environment in the province, and the resources cannot be configured. ",Data issues 
+Stop and try again. ,Reasons for the group system 
+Stop and try again. ,Reasons for the group system 
+It has stopped. ,Data issues 
+Ordering problems in the group's province ,Data issues 
+Local network arrangement has not been transmitted to CE_COUNTRY district and county fields ,Reasons for the group system 
+"The address was not provided when placing the order, and the address was signed and configured. The order cannot be dispatched. At present, the configuration has been completed.",Reasons for the provincial system 
+Mandatory order ,Data issues 
+OTN Ethernet link RFS_resource configuration_link no return ,Reasons for the provincial system 
+Mandatory order ,Data issues 
+Provincial resources OTN aggregation equipment resource allocation has not been returned ,Reasons for the provincial system 
+Mandatory order ,Data issues 
+Mandatory order ,Data issues 
+Mandatory order ,Data issues 
+Mandatory order ,Data issues 
+Manual receipt for provincial comprehensive adjustment ,Data issues 
+"The old plane test sheet of pon has been abandoned, and the PON test is subject to the latest test sheet. ",Data issues 
+"Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api The group's arrangement problem is re-adjusted and sent to provincial resources. The provincial resource callback is abnormal, and the circuit information cannot be found according to the circuit code. ",Data issues 
+The problem of placing an order ,To be determined (other reasons) (write notes) 
+"At present, the provincial control test environment can only be manually confirmed and returned. At present, the order has been returned. ",Reasons for the provincial system 
+No form has been received in the province. ,Reasons for the group system 
+"The previous PON transfer test order was not complete due to the incomplete test process, and the waste order was stopped at the front desk. ",Reasons for the design center plan 
+The local network was not supported at that time.,Reasons for the group system 
+This is the value issued by the group CRM. ,Reasons for the group system 
+"Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api The group's arrangement problem is re-adjusted and sent to provincial resources. The provincial resource callback is abnormal, and the circuit information cannot be found according to the circuit code. ",Data issues 
+"It is necessary to verify the consistency of link information controller, resources and control information in the province, and unify the data link information in the early stage. ",Reasons for the provincial system 
+OTN Ethernet link RFS_resource configuration_link no return ,Reasons for the provincial system 
+OTN Ethernet link RFS_resource configuration_link no return ,Reasons for the provincial system 
+OTN Ethernet link RFS_resource configuration_link no return ,Reasons for the provincial system 
+OTN Ethernet link RFS_resource configuration_link no return ,Reasons for the provincial system 
+Mandatory order ,Data issues 
+Provincial resources OTN aggregation equipment resource allocation has not been returned ,Reasons for the provincial system 
+OTN Ethernet link RFS_resource configuration_link no return ,Reasons for the provincial system 
+"The address was not provided when placing the order, and the address was signed and configured. The order cannot be dispatched. At present, the configuration has been completed.",Reasons for the provincial system 
+Mandatory order ,Data issues 
+OTN Ethernet link RFS_resource configuration_link no return ,Reasons for the provincial system 
+Mandatory order ,Data issues 
+Mandatory order ,Data issues 
+Research institute program problems ,Reasons for the design center plan 
+CRM does not issue fields ,Reasons for the group system 
+"It has been called back and arranged, waiting for the follow-up process, and the group arrangement has not called the follow-up process. The group's arrangement problems will be re-adjusted and sent to provincial resources, and provincial resources are to be returned. ",Reasons for the provincial system 
+The problem of placing an order ,Data issues 
+"Callback arrangement, waiting for the follow-up process, arrangement has not called the follow-up process groupThe group's arrangement problem has been re-adjusted, the order has been passed, the code has been updated, and the service has been restarted. ",Data issues 
+"At present, the provincial control test environment can only be manually confirmed and returned. At present, the order has been returned. ",Reasons for the provincial system 
+JIPRAN PW access to RFS_resource configuration rollback processing,Reasons for the provincial system 
+"Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api The group's arrangement problem has been re-adjusted, and the order has been passed. ",Data issues 
+Provincial resources OTN aggregation equipment resource allocation has not been returned ,Reasons for the provincial system 
+Reserve for resource-free construction and mining process development and testing,Data issues 
+Mandatory order ,Data issues 
+Provincial resources OTN aggregation equipment resource allocation has not been returned ,Reasons for the provincial system 
+"Test environmental data problems, unable to allocate data ",Data issues 
+"The resources have been successfully returned, and the group arrangement is called again? ",Data issues 
+Stop opening the non-re-order. ,Reasons for the provincial system 
+Metropolitan Area Network-CN2 three-layer VPN access RFS_disassembly_api no receipt,Reasons for the provincial system 
+In the waiting process of dependence ,Collaborative dependence 
+"Order problem, the previous order has not been completed, and a new order has been placed. ",To be determined (other reasons) (write notes) 
+"Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api The group's arrangement problem has been re-adjusted. At present, this link has been ordered. ",Data issues 
+It has stopped. ,Data issues 
+"Test environmental data problems, unable to allocate data ",Data issues 
+Three-layer VPN access to RFS_install_api_abnormal resource configuration ,Reasons for the provincial system 
+"Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api The group's arrangement problem has been re-adjusted and sent to provincial resources. The abnormal resNetAsbr node of the provincial resource order is empty.PW RFS is not completed. This link is distributed in advance when the group arranges and reissues it. According to the dependency rules, the dependency should not be removed in advance at this time. Provincial resources cannot process the ASBR configuration at the same time in order to complete the PW resource configuration. ",Reasons for the provincial system 
+"At present, ONT has no automatic configuration and is already under development. ",Data issues 
+Provincial resources OTN aggregation equipment resource allocation has not been returned ,Reasons for the provincial system 
+"The group's arrangement and dispatch is abnormal, and the group's arrangement needs to assist in verification. ",To be determined (other reasons) (write notes) 
+"The group's arrangement and dispatch is abnormal, and the group's arrangement needs to assist in verification. ",To be determined (other reasons) (write notes) 
+Test waste order ,Reasons for the provincial system 
+"The relay link of the upper OTN aggregation equipment and pe has not been entered, and the cloud network resource center has been notified for entry. ",Reasons for the provincial system 
+Misoperation in the province leads to repeated links. ,Data issues 
+Provincial resource network ASBR equipment timeout ,Reasons for the provincial system 
+Chargebacks:ipv4AddressMask is null or empty ,Reasons for the provincial system 
+"Stop the scene, the plan is being formulated. ",Data issues 
+OTN Ethernet Link RFS_No return for on-site construction ,Reasons for the provincial system 
+Mandatory order ,Data issues 
+Wait for the provincial resource rate change archiving callback ,Reasons for the provincial system 
+"The process problem should pass the A8-C IP change process. At present, it has not flowed in accordance with the IP change process, and it has been in the cloud-effective bill of lading. ",Reasons for the design center plan 
+The test list is invalid. ,Data issues 
+The test list is invalid. ,Data issues 
+The otn test sheet has been completed. ,Reasons for the provincial system 
+In the waiting process of dependence ,Collaborative dependence 
+The ipran test sheet has been completed. ,Reasons for the provincial system 
+Misoperation in the province leads to repeated links. ,Data issues 
+Misoperation in the province leads to repeated links. ,Data issues 
+Misoperation in the province leads to repeated links. ,Data issues 
+The group arranges and confirms that it has arranged the dispatch to the provincial level. ,Reasons for the provincial system 
+In the waiting process of dependence ,Collaborative dependence 
+Waiting for provincial resources OTN aggregation equipment configuration callback ,Reasons for the provincial system 
+OTN Ethernet Link RFS_No return for on-site construction ,Reasons for the provincial system 
+"No one took the order in the test environment, and now the order is returned. ",Reasons for the provincial system 
+Test list,Reasons for the provincial system 
+Waiting for provincial resources OTN aggregation equipment configuration callback ,Reasons for the provincial system 
+: Abnormal calculation of provincial arrangement process ,Reasons for the group system 
+"The old plane test sheet of pon has been abandoned, and the PON test is subject to the latest test sheet. ",Data issues 
+Provincial arrangement without reply ,Data issues 
+The ipran test sheet has been completed. ,Reasons for the provincial system 
+The ipranAAA test list has been abandoned at present.,Data issues 
+"Successful callback arrangement, no abnormality ",Data issues 
+"The data has not been found in the resource production of the relay group of the provincial resource OTN aggregation equipment configuration, and the provincial resources need to check whether the relay has been completed. ",Data issues 
+"Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api The group's arrangement problem has been re-adjusted and sent to the province, waiting for the provincial resource callback. ",Reasons for the provincial system 
+In the waiting process of dependence ,Collaborative dependence 
+In the waiting process of dependence ,Collaborative dependence 
+In the waiting process of dependence ,Data issues 
+In the waiting process of dependence ,Data issues 
+In the waiting process of dependence ,Data issues 
+In the waiting process of dependence ,Data issues 
+Program issues ,Reasons for the design center plan 
+The receipt has been returned ,Data issues 
+In the waiting process of dependence ,Collaborative dependence 
+Mandatory order ,Data issues 
+The test list is invalid. ,Data issues 
+In the waiting process of dependence ,Collaborative dependence 
+In the waiting process of dependence ,Reasons for the group system 
+Test list for January ,Data issues 
+Test list for February ,Data issues 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api ,Collaborative dependence 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+"Resource parameter problem, AZ-side resource feedback format verification does not pass ",Reasons for the provincial system 
+Mandatory order ,Data issues 
+The test list is invalid. ,Data issues 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api ,Collaborative dependence 
+Other reasons (void) ,Data issues 
+"IPRAN PW access RFS_installation, provincial card order, no return order in the network configuration link ",Reasons for the provincial system 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+"After the successful provincial resource callback, it will be arranged. ",To be determined (other reasons) (write notes) 
+"Stop the scene, the plan is being formulated. ",Reasons for the design center plan 
+"Stop the scene, the plan is being formulated. ",Reasons for the design center plan 
+The scene has been stopped. ,Data issues 
+"Stop the scene, the plan is being formulated. ",Data issues 
+Program issues ,Reasons for the design center plan 
+It has stopped. ,Data issues 
+"At present, when looking at the list statistics, it is in the provincial resources that have not been returned, and the return time is greater than the statistical time. ",Reasons for the group system 
+"The return order is abnormal, the parameter is wrong: the single-terminal circuit does not exist ",Reasons for the group system 
+Provincial process testing ,Reasons for the provincial system 
+Program issues ,Reasons for the design center plan 
+Mandatory order ,Data issues 
+The test list is invalid. ,Data issues 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Reasons for the group system 
+It has stopped opening now. ,To be determined (other reasons) (write notes) 
+Mandatory order ,Data issues 
+Mandatory order ,Data issues 
+Program issues ,Reasons for the design center plan 
+Program issues ,Reasons for the design center plan 
+Test list,Reasons for the provincial system 
+The group arrangement service design entry eventType is empty ,Data issues 
+"OTN test sheet, discarded ",Data issues 
+The ipran supplementary test sheet is currently being tested. ,Reasons for the provincial system 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api ,Data issues 
+Program issues ,Reasons for the design center plan 
+Mandatory order ,Data issues 
+Mandatory order ,Data issues 
+Repeated callbacks of provincial resources lead to abnormal allocation ,Data issues 
+It has been archived. Now the resource can't find this list. Did you do something else? ,Reasons for the provincial system 
+Mandatory order ,Data issues 
+Mandatory order ,Data issues 
+"The interface call problem is not available; the comprehensive call reuses the return interface, but the message verification does not pass, contact the group for arrangement assistance.",Reasons for the provincial system 
+The ipranAA test form is currently being tested. ,Reasons for the provincial system 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Data issues 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Data issues 
+"Test sheet, manual link ",Data issues 
+The test list is invalid. ,Data issues 
+Mandatory order ,Data issues 
+It has stopped. ,Data issues 
+The reply is wrong. ,Reasons for the provincial system 
+The reply is wrong. ,Reasons for the provincial system 
+Recurring distribution service design in the province ,Data issues 
+"The interface of 5G access network ASBR resource allocation has not been adjusted, and it is communicating with provincial resources. ",Reasons for the provincial system 
+"Accept the problem, the test environment does not have the installation address. ",Data issues 
+Misoperation in the province leads to repeated links. ,Data issues 
+Misoperation in the province leads to repeated links. ,Data issues 
+The receipt has been returned ,Reasons for the group system 
+The receipt has been returned ,Reasons for the group system 
+It has stopped. ,Data issues 
+"OTN-CN2 three-layer VPN access to RFS_resource configuration_link reverse, waiting for provincial resource optimization to stop logic",Reasons for the provincial system 
+Mandatory order ,Data issues 
+Mandatory order ,Data issues 
+"At present, the provincial resources in this link have been returned and arranged. ",Reasons for the provincial system 
+The order has not been received ,Reasons for the provincial system 
+The provincial resources of this link have been returned and stopped. ,Reasons for the provincial system 
+The test list is invalid. ,Data issues 
+The test list is invalid. ,Data issues 
+The interface has been re-adjusted and circulated. ,Reasons for the group system 
+Mandatory order ,Data issues 
+It has stopped. ,Data issues 
+It has stopped. ,Data issues 
+Provincial resource process problems ,Reasons for the provincial system 
+"Accept the problem, the test environment does not have the installation address. ",Data issues 
+Mandatory order ,Data issues 
+It has stopped. ,Data issues 
+Mandatory order ,Data issues 
+It has stopped. ,Data issues 
+The single-end circuit does not exist. ,Data issues 
+The test list is invalid. ,Data issues 
+The test list is invalid. ,Data issues 
+The test list is invalid. ,Data issues 
+The test list is invalid. ,Data issues 
+The test list is invalid. ,Data issues 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+Mandatory order ,Data issues 
+Test list,Reasons for the provincial system 
+Parameter error: single-terminal circuit does not exist ,Reasons for the provincial system 
+The test list is invalid. ,Data issues 
+The test list is invalid. ,Data issues 
+The interface has been re-adjusted and circulated. ,Reasons for the group system 
+The test environment uses the resource data configured in the province. The group system cannot pass the audit. ,Reasons for the group system 
+The model data has been added to the group's resources. The list has not been completed and has been archived after completion. ,Reasons for the group system 
+It has stopped. ,Data issues 
+The test environment uses the resource data configured in the province. The group system cannot pass the audit. ,Data issues 
+"Card Resource Competency Center-Network Management Logic Resource Configuration Link, Network Management-Resource Equipment Data Inconsistent",Reasons for the provincial system 
+"Card Resource Competency Center-Network Management Logic Resource Configuration Link, Network Management-Resource Equipment Data Inconsistent",Reasons for the provincial system 
+Provincial resources to be returned ,Reasons for the provincial system 
+Mandatory order ,Data issues 
+Provincial resources to be returned ,Reasons for the provincial system 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+"The shutdown scenario test has been completed, and the order has been scrapped. ",Data issues 
+Provincial resource archive pending return ,Reasons for the provincial system 
+The receipt has been returned ,Data issues 
+Mandatory order ,Data issues 
+Test waste order ,Data issues 
+There is no receipt in the province. ,Reasons for the provincial system 
+Program issues ,Reasons for the group system 
+It has stopped. ,Data issues 
+Due to repeated dispatches in the province ,Reasons for the provincial system 
+"The release card is stuck, and the call has been returned. ",Reasons for the group system 
+The test list is invalid. ,Data issues 
+Resource data in preparation for testing ,Data issues 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+It has stopped. ,Data issues 
+Mandatory order ,Data issues 
+Test list,Reasons for the provincial system 
+The test list is invalid. ,Data issues 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+The test list is invalid. ,Data issues 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+Test list,Reasons for the provincial system 
+The test list is invalid. ,Data issues 
+The test list is invalid. ,Data issues 
+The test list is invalid. ,Data issues 
+3A circuit provincial resource allocation link and opposite-end circuit repeat ,Reasons for the provincial system 
+The test list is invalid. ,Data issues 
+The test list is invalid. ,Data issues 
+"The resource allocation link in the province was not returned in time. At present, the whole process has been completed. ",Reasons for the provincial system 
+The meaning is not clear. The controller message has been put in the notes. ,Reasons for the group system 
+The receipt has been returned ,Reasons for the group system 
+The test list is invalid. ,Data issues 
+The test list is invalid. ,Data issues 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api ,Data issues 
+The list has been returned. ,Reasons for the group system 
+Provincial resource logic ,Reasons for the provincial system 
+Mandatory order ,Data issues 
+It has stopped. ,Data issues 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api ,Data issues 
+The test list is invalid. ,Data issues 
+The test list is invalid. ,Data issues 
+"Test environmental data problems, unable to allocate data ",Data issues 
+"Because the group CRM did not support the scene where the patch was stopped at that time, the waste order has been stopped.",Data issues 
+Test environment manual order ,Data issues 
+"The shutdown scenario test has been completed, and the order has been scrapped. ",Data issues 
+Test environment manual order ,Data issues 
+Resource data in preparation for testing ,Data issues 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+"There is no abnormality, and the list has been archived. ",Data issues 
+"There is no abnormality, and the list has been archived. ",Data issues 
+"The shutdown scenario test has been completed, and the order has been scrapped. ",Data issues 
+"The shutdown scenario test has been completed, and the order has been scrapped. ",Data issues 
+The test list is invalid. ,Data issues 
+"The shutdown scenario test has been completed, and the order has been scrapped. ",Data issues 
+"Provincial arrangement problem, the list has been archived at present. ",Reasons for the provincial system 
+Program issues ,Reasons for the group system 
+"Provincial resource callback relay production has not been completed, and does not meet the test conditions Kunming/Xiyuan-Xiyuan ",Reasons for the provincial system 
+"At present, there is no abnormality, and the order for the suspension link has passed. ",Data issues 
+Parameter error: single-end circuit does not exist ,To be determined (other reasons) (write notes) 
+Parameter error: single-end circuit does not exist ,To be determined (other reasons) (write notes) 
+The receipt has been returned ,Reasons for the group system 
+Did not receive the call of the fixed network dedicated line CFS_resource configuration_api ,Collaborative dependence 
+"Test environmental data problems, unable to allocate data ",Data issues 
+The preliminary arrangement of test environment problems has passed this link.,Reasons for the provincial system 
+The preliminary arrangement of test environment problems has passed this link.,Reasons for the provincial system 
+The test list is invalid. ,Data issues 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+Waiting for the provincial resource archiving callback ,Reasons for the provincial system 
+The test list is invalid. ,Data issues 
+Test system data problems ,Reasons for the provincial system 
+Test system data problems ,Reasons for the provincial system 
+Test system data problems ,Reasons for the provincial system 
+Test system data problems ,Reasons for the provincial system 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+Test waste order ,Data issues 
+Mandatory order ,Data issues 
+The test list is invalid. ,Data issues 
+The bandwidth of the single-ended circuit of the VPN circuit exceeds the limit. ,Data issues 
+Waiting for provincial resource rollback ,Reasons for the provincial system 
+Program issues ,Reasons for the design center plan 
+The test list is invalid. ,Data issues 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+The test list is invalid. ,Data issues 
+The test list is invalid. ,Data issues 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api ,Data issues 
+The test list is invalid. ,Data issues 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+"The shutdown scenario test has been completed, and the order has been scrapped. ",Data issues 
+The test list is invalid. ,Data issues 
+The test list is invalid. ,Data issues 
+"The shutdown scenario test has been completed, and the order has been scrapped. ",Data issues 
+"The shutdown scenario test has been completed, and the order has been scrapped. ",Data issues 
+": The three-layer VPN of the metropolitan area network is connected to RFS_install_api, no return order",Reasons for the provincial system 
+": The three-layer VPN of the metropolitan area network is connected to RFS_install_api, no return order",Reasons for the provincial system 
+": IPRAN PW access to RFS_install_api, no receipt ",Reasons for the provincial system 
+"Dependency problem, provincial arrangement dependency abnormality ",Collaborative dependence 
+"Test environmental data problems, unable to allocate data ",Data issues 
+"The provincial resource network ASBR resource configuration return message is empty, waiting for a new return. ",Reasons for the provincial system 
+"Dependency problem, provincial arrangement dependency abnormality ",Collaborative dependence 
+The test list is invalid. ,Data issues 
+Other reasons (void) ,Data issues 
+Provincial resource OTN resource configuration order allocation of VLAN repeats with other circuits ,Reasons for the provincial system 
+Stop the bill and wait for the provincial resource rollback. ,Reasons for the provincial system 
+Other reasons (void) ,Data issues 
+The VPN circuit does not exist. ,Reasons for the group system 
+OTMS is not eligible. ,Data issues 
+"At present, the relay of the non-standard service provincial resource allocation is currently a new plane relay, and no link role field is returned. ",Reasons for the provincial system 
+Waiting for the provincial resource archiving callback ,Reasons for the provincial system 
+: OTN Ethernet Link RFS_Resource Configuration_api No Return,Reasons for the provincial system 
+Other reasons (void) ,Data issues 
+Other reasons (void) ,Data issues 
+Other reasons (void) ,Data issues 
+"MTU changes the order time, and places an order in demand research and development. ",To be determined (other reasons) (write notes) 
+Other reasons (void) ,Data issues 
+The test list is invalid. ,Data issues 
+Waiting for the reply of provincial resource allocation ,Reasons for the provincial system 
+: OTN Ethernet Link RFS_Resource Configuration_api No Return,Reasons for the provincial system 
+: OTN Ethernet Link RFS_Resource Configuration_api No Return,Reasons for the provincial system 
+"Provincial resource callback relay production has not been completed online, and does not meet the test conditions Kunming/Xiyuan-Xiyuan/ ",Reasons for the provincial system 
+Stop and try again. ,Reasons for the group system 
+The test list is invalid. ,Data issues 
+The test list is invalid. ,Data issues 
+Other reasons (void) ,Data issues 
+"Accept the problem, the test environment does not have the installation address. ",Data issues 
+"Accept the problem, the test environment does not have the installation address. ",Data issues 
+Test environment manual order ,Data issues 
+OTMS is not eligible. ,Data issues 
+OTMS is not eligible. ,Data issues 
+OTMS is not eligible. ,Data issues 
+Feedback errors in the province. The customer order ID is empty. ,Reasons for the provincial system 
+The return time of provincial resources is that the order has been passed at present. ,Reasons for the provincial system 
+"MTU test sheet, in the middle of the test ",Data issues 
+Waiting for the reply of provincial resource allocation ,Reasons for the provincial system 
+OTMS is not eligible. ,Data issues 
+The test list is invalid. ,Data issues 
+The test list is invalid. ,Data issues 
+Provincial resource network ASBR resource configuration rollback interface synchronous response is empty ,Reasons for the provincial system 
+The receipt has been returned ,Reasons for the provincial system 
+Rolled back ,Reasons for the provincial system 
+The test environment controller can't be verified. It's better to find a group arrangement. ,Data issues 
+The test environment controller can't be verified. It's better to find a group arrangement. ,Data issues 
+The test environment controller can't be verified. It's better to find a group arrangement. ,Data issues 
+The test environment controller can't be verified. It's better to find a group arrangement. ,Data issues 
+This business is a test shutdown scenario. The cancellation has been completed and does not belong to the card list.,Data issues 
+This business is a test shutdown scenario. The cancellation has been completed and does not belong to the card list.,Data issues 
+The MTU change value of the research institute's arrangement package has not been added. ,Reasons for the group system 
+The MTU change value of the research institute's arrangement package has not been added. ,Reasons for the group system 
+Normal test transfer ,Data issues 
+Normal test transfer ,Data issues 
+OTMS is not eligible. ,Data issues 
+"After the new link is re-sent, the original link is not automatically invalidated. Please arrange the group to assist in invalidating it. ",Reasons for the provincial system 
+The test environment controller can't be verified. It's better to find a group arrangement. ,Data issues 
+The test environment controller can't be verified. It's better to find a group arrangement. ,Data issues 
+The test environment controller can't be verified. It's better to find a group arrangement. ,Data issues 
+The test environment controller can't be verified. It's better to find a group arrangement. ,Data issues 
+Waiting for the reply of provincial resource allocation ,Reasons for the provincial system 
+Waiting for the reply of provincial resource allocation ,Reasons for the provincial system 
+The abnormal flow of processes in the province has been solved. ,Reasons for the provincial system 
+The test environment controller can't be verified. It's better to find a group arrangement. ,Data issues 
+This business is a test shutdown scenario. The cancellation has been completed and does not belong to the card list.,Data issues 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+"For data problems, provincial resources cannot be allocated, and other test orders have been accepted. ",Reasons for the provincial system 
+Normal test transfer ,Data issues 
+The test stopped. ,Data issues 
+The test stopped. ,Data issues 
+The MTU change value of the research institute's arrangement package has not been added. ,Reasons for the group system 
+The MTU change value of the research institute's arrangement package has not been added. ,Reasons for the group system 
+"Provincial resources reply that the address has no resources configured, and now it needs to be stopped. ",Collaborative dependence 
+"Provincial resources reply that the address has no resources configured, and now it needs to be stopped. ",Collaborative dependence 
+: OTN Ethernet Link RFS_Resource Configuration_api No Return,Reasons for the provincial system 
+Resource data in preparation for testing ,Data issues 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+Resource data in preparation for testing ,Data issues 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api ,Collaborative dependence 
+: IPRAN PW access RFS_install_api no receipt ,Reasons for the provincial system 
+Waiting for the provincial resource allocation back ,Reasons for the provincial system 
+Group process line error ,Reasons for the provincial system 
+"The provincial resources have not been returned, and the order has been suspended at present. ",Reasons for the provincial system 
+"The provincial resources have not returned the order. At present, the order has been suspended. At present, the provincial resource rollback interface synchronously reports the error, waiting for the rollback callback. ",Reasons for the provincial system 
+OTMS is not eligible. ,Data issues 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+Log in to the group arrangement system to see the requestid in the request header and query the record in the provincial EOP. ,To be determined (other reasons) (write notes) 
+Log in to the group arrangement system to see the requestid in the request header and query the record in the provincial EOP. ,To be determined (other reasons) (write notes) 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+: IPRAN PW access RFS_install_api no receipt ,Reasons for the provincial system 
+The test environment controller can't be verified. It's better to find a group arrangement. ,Data issues 
+The test environment controller can't be verified. It's better to find a group arrangement. ,Data issues 
+"Provincial resource callback message error, the circuit information cannot be found according to the circuit code. ",Reasons for the provincial system 
+"MTU test arrangement package error, checking the reason ",Reasons for the provincial system 
+The circuit information cannot be found according to the circuit code. ,Reasons for the provincial system 
+The normal return exceeds the timeout of the business party's configuration. ,Data issues 
+OTMS is not eligible. ,Data issues 
+The test environment controller can't be verified. It's better to find a group arrangement. ,Data issues 
+The test environment controller can't be verified. It's better to find a group arrangement. ,Data issues 
+The test environment controller can't be verified. It's better to find a group arrangement. ,Data issues 
+The test environment controller can't be verified. It's better to find a group arrangement. ,Data issues 
+The test environment controller can't be verified. It's better to find a group arrangement. ,Data issues 
+Other reasons (void) ,Data issues 
+Other reasons (void) ,Data issues 
+"The provincial resource network ASBR resource configuration callback relay cannot be found. At present, the provincial resource network ASBR resource rollback interface synchronous response is empty. ",Reasons for the provincial system 
+Log in to the group arrangement system to see the requestid in the request header and query the record in the provincial EOP. ,To be determined (other reasons) (write notes) 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+The test environment controller can't be verified. It's better to find a group arrangement. ,Data issues 
+The test environment controller can't be verified. It's better to find a group arrangement. ,Data issues 
+The test order has been stopped and has been withdrawn. ,Reasons for the provincial system 
+The test order has been stopped and has been withdrawn. ,Reasons for the provincial system 
+Log in to the group arrangement system to see the requestid in the request header and query the record in the provincial EOP. ,To be determined (other reasons) (write notes) 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+The test order has been stopped and has been withdrawn. ,Reasons for the provincial system 
+"Card group arrangement, group arrangement feedback group resources and provincial control value strategy do not match, the research institute replied that provincial resources need to return the new and old two groups of dynamic pseudo-line information, which is expected to be developed after September. ",Reasons for the provincial system 
+: IPRAN PW access RFS_install_api no receipt ,Reasons for the provincial system 
+The test order has been stopped and has been withdrawn. ,Reasons for the provincial system 
+: IPRAN PW access to RFS_change_api no return order ,Reasons for the provincial system 
+The test environment controller can't be verified. It's better to find a group arrangement. ,Data issues 
+"It has been reported, and the time has been completed. ",Reasons for the provincial system 
+"It has been reported, and the time has been completed. ",Reasons for the provincial system 
+OTMS is not eligible. ,Data issues 
+The test environment controller can't be verified. It's better to find a group arrangement. ,Data issues 
+The acceptance of test orders in the province will be stopped. ,Data issues 
+The list has been stopped and there is no abnormality. ,Data issues 
+What is the specific problem of MTU rules? ,Reasons for the group system 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+The test environment controller can't be verified. It's better to find a group arrangement. ,Data issues 
+The test environment controller can't be verified. It's better to find a group arrangement. ,Data issues 
+"MTU test order, ZTE equipment failed under provincial control, in the middle of adjustment ",Reasons for the provincial system 
+"MTU test sheet, in the middle of the test ",Reasons for the provincial system 
+OTMS is not eligible. ,Data issues 
+Log in to the group arrangement system to see the requestid in the request header and query the record in the provincial EOP. ,To be determined (other reasons) (write notes) 
+"After the function test of the provincial arrangement version, the provincial arrangement has been solved. ",Reasons for the provincial system 
+OTMS is not eligible. ,Data issues 
+The order has been completed. ,Reasons for the provincial system 
+It has stopped. ,Data issues 
+"The test environment has not started the process, please arrange the group to cancel the order directly for this link. The process has not started in the province. ",Reasons for the provincial system 
+"The test environment in the province has been switched, and the interface address has changed. ",Reasons for the provincial system 
+"After the new link is re-sent, the original link is not automatically invalidated. Please arrange the group to assist in invalidating it. ",Data issues 
+The test sheet is invalid. ,Data issues 
+It has stopped. ,Data issues 
+"The provincial resource interface reports errors synchronously, and wait for the provincial resource reply after re-adjustment. ",Reasons for the provincial system 
+: IPRAN PW access to RFS_change_api no return order ,Reasons for the provincial system 
+The relay of the provincial resource callback configuration of the new service circuit is the old plane relay. ,Reasons for the provincial system 
+The group looked at the provincial Zhongying's unreturned order. ,Reasons for the provincial system 
+Provincial comprehensive adjustment card list ,Reasons for the provincial system 
+"The order has been returned in the province. At present, the group's arrangement has not generated a follow-up link. ",Reasons for the provincial system 
+: RES_IP_MANASBR_MPLS_L3VPN_CONFIGURATION NEW_API NO REPLY ,Reasons for the provincial system 
+The abnormal flow of processes in the province has been solved. ,Reasons for the provincial system 
+The abnormal flow of processes in the province has been solved. ,Reasons for the provincial system 
+OTMS is not eligible. ,Data issues 
+Provincial resource rollback interface synchronous error reporting ,Reasons for the provincial system 
+"The test environment has not started the process, please arrange the group to cancel the order directly for this link. The process has not started in the province. ",Reasons for the provincial system 
+Provincial resource archiving interface synchronous error reporting ,Reasons for the provincial system 
+Parameter error: single-terminal circuit does not exist ,Data issues 
+Parameter error: single-terminal circuit does not exist ,Data issues 
+The abnormal flow of processes in the province has been solved. ,Data issues 
+The problem of provincial control is located in the middle. ,To be determined (other reasons) (write notes) 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+The receipt has been returned ,To be determined (other reasons) (write notes) 
+"IPRAN PW access to RFS_install_api, card in the province, no receipt",Reasons for the provincial system 
+"IPRAN PW access to RFS_install_api, card in the province, no receipt",Reasons for the provincial system 
+"After the function test of the provincial arrangement version, the provincial arrangement has been solved. ",Reasons for the provincial system 
+Provincial resource interface synchronous error reporting ,Reasons for the provincial system 
+Normal test ticket ,To be determined (other reasons) (write notes) 
+The normal test work order has been completed. ,To be determined (other reasons) (write notes) 
+OTMS does not have a test environment ,Data issues 
+The data is not fully matched. ,Data issues 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api ,Collaborative dependence 
+Completed ,Data issues 
+The test sheet is invalid. ,Data issues 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+The feedback parameter value of Ethernet link resource configuration is incorrect. ,Data issues 
+Parameter error: VPN circuit does not exist ,Data issues 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+There is no receipt for the network element link. ,Reasons for the provincial system 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+There is no receipt for the provincial resource allocation. ,Reasons for the provincial system 
+The cancellation is completed. ,Data issues 
+There is no receipt in the province for the resource archiving link.,Data issues 
+There is no reply in the logical resource allocation. ,Reasons for the provincial system 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+There is no receipt for the provincial resource allocation. ,Reasons for the provincial system 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+There is no reply in the logical resource allocation. ,Reasons for the provincial system 
+There is no receipt for the provincial resource allocation. ,Reasons for the provincial system 
+In the test ,Data issues 
+Provincial network management resource allocation and allocation ,Data issues 
+The historical data of 5G access single is currently archived. ,Reasons for the group system 
+"At present, it is in the rollback process, waiting for the provincial resources to roll back. The receipt has been returned ",Reasons for the provincial system 
+The process flow in the province is abnormal and is being processed. ,Reasons for the provincial system 
+The process flow in the province is abnormal and is being processed. ,Reasons for the provincial system 
+The new installation order cannot be changed if it is not archived. ,Data issues 
+"The dispatch is missing jobid, and the order has been passed after msgid re-adjustment. ",Reasons for the group system 
+The new installation order cannot be changed if it is not archived. ,Data issues 
+The new installation order cannot be changed if it is not archived. ,Data issues 
+The new installation order cannot be changed if it is not archived. ,Data issues 
+The new installation order cannot be changed if it is not archived. ,Data issues 
+"This product service has other states under the instance number of this product (it has been dismantled and modified), and cannot be dismantled or modified repeatedly. ",Data issues 
+The new installation order cannot be changed if it is not archived. ,Data issues 
+The new installation order cannot be changed if it is not archived. ,Data issues 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+Parameter error: The selected carrier relay circuit does not match peName ,Reasons for the provincial system 
+Waiting for the provincial resource return ,Reasons for the provincial system 
+Waiting for the provincial resource return ,Reasons for the provincial system 
+"At present, the list is not in this link, and the group resource link has only received the callback of CFS service design rollback and has been completed. ",Collaborative dependence 
+Waiting for the provincial resource return ,Reasons for the provincial system 
+Waiting for the provincial resource return ,Reasons for the provincial system 
+Waiting for the provincial resource return ,Reasons for the provincial system 
+Waiting for provincial resource rollback ,Reasons for the provincial system 
+"At that time, the environment in the province was restarted. The group was successfully rearranged. The order has been cancelled. ",Reasons for the provincial system 
+"This product service has other states under the instance number of this product (it has been dismantled and modified), and cannot be dismantled or modified repeatedly. ",Data issues 
+Waiting for provincial resource rollback ,Reasons for the provincial system 
+Wait for the order test to stop. ,Reasons for the provincial system 
+Stop open ,Data issues 
+"This product service has other states under the instance number of this product (it has been dismantled and modified), and cannot be dismantled or modified repeatedly. ",Data issues 
+The problem of placing an order in the province ,Data issues 
+"RES_STN_SERVICE_PWACCESS_Instalation' link has not been returned. Looking at the provincial Zhongying, the provincial resources have not returned. ",Reasons for the provincial system 
+Waiting for the resource allocation of resource dispatchers in the province,Reasons for the provincial system 
+The mobile machine work order has been completed. ,Data issues 
+There is no reply in the logical resource allocation. ,Reasons for the provincial system 
+"The provincial resource return time is relatively late, and the current list has been archived. ",Reasons for the provincial system 
+There is no receipt for the network element link. ,Reasons for the provincial system 
+Provincial resource rollback callback message is empty ,Reasons for the provincial system 
+There is no reply in the logical resource allocation. ,Reasons for the provincial system 
+There is no reply in the logical resource allocation. ,Reasons for the provincial system 
+"The provincial procurement control is missing, and provincial resources are needed for redevelopment. ",Reasons for the provincial system 
+VPN configuration execution failed ,Reasons for the provincial system 
+The mobile machine work order has been completed. ,Data issues 
+Errors reported in provincial test resources ,Data issues 
+Errors reported in provincial test resources ,Data issues 
+Adjustment of provincial procedures ,Data issues 
+Provincial resource network ASBR resource allocation has not been returned ,Other reasons (void/other)
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+Provincial resource network ASBR resource allocation has not been returned ,Other reasons (void/other)
+"In the test environment, the initial message issued by the group lacks nodes: prodResources, reissue is normal; provincial arrangement has successfully distributed provincial resources, but the provincial resource reply needs to be reissued after the previous VLAN withdrawal. ",Reasons for the design center plan 
+Provincial arrangement without reply ,Reasons for the provincial system 
+Provincial arrangement without reply ,Reasons for the provincial system 
+Provincial arrangement without reply ,Reasons for the provincial system 
+"Provincial resources, the address is not associated with U and A devices. ",Other reasons (void/other)
+"PON migration process, the whole process of testing before disassembly, looking for a design center, need to add this link to the group design center and group choreography for follow-up testing. It has been invalidated ",Reasons for the design center plan 
+"It was sent when the machine was moved and disassembled. When the machine was moved and installed, the delivery was wrong. ",Reasons for the design center plan 
+"It was sent when the machine was moved and disassembled. When the machine was moved and installed, the delivery was wrong. ",Reasons for the design center plan 
+Provincial resource configuration relay name error ,Reasons for the provincial system 
+OTMS has no test environment and is forced to pass the order. ,Other reasons (void/other)
+"The originally allocated relay port is occupied, and the available port of the link is to be redistributed. ",Reasons for the provincial system 
+Provincial resource OTN convergence equipment callback relay link is empty ,Other reasons (void/other)
+The link information is not queried according to the link name. ,Other reasons (void/other)
+No data was obtained according to the name of the input link. ,Other reasons (void/other)
+Provincial resource process problems make it impossible to circulate and need to be stopped. ,Reasons for the group system 
+Provincial resource process problems make it impossible to circulate and need to be stopped. ,Reasons for the group system 
+Operation problems in the province Repeated orders due to an unfinished work order ,Other reasons (void/other)
+/New archway-New archway/relay can't be found ,Other reasons (void/other)
+And other provincial resources OTN aggregation equipment resource allocation return ,Reasons for the provincial system 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api The group arrangement and re-adjustment has passed the order. ,Collaborative dependence 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api The group's arrangement and re-adjustment has been sent to provincial resources. Provincial resources 3A circuit callback relay and opposite-end circuit are repeated.,Reasons for the provincial system 
+Provincial arrangement without reply ,Reasons for the provincial system 
+The problem of network configuration strategy has been fed back to the cloud effect. ,Reasons for the design center plan 
+The problem of network configuration strategy has been fed back to the cloud effect. ,Reasons for the design center plan 
+"Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api The group's arrangement problem has been re-adjusted, and the order has been replied. ",Collaborative dependence 
+"No resource construction and mining process test list, there is a problem with the process in the province, invalid ",Other reasons (void/other)
+"The old plane test sheet of pon has been abandoned, and the PON test is subject to the latest test sheet. ",Other reasons (void/other)
+"The old plane test sheet of pon has been abandoned, and the PON test is subject to the latest test sheet. ",Other reasons (void/other)
+"The old plane test sheet of pon has been abandoned, and the PON test is subject to the latest test sheet. ",Other reasons (void/other)
+OTMS has no test environment and is forced to pass the order. ,Other reasons (void/other)
+Provincial resource allocation VLAN is duplicated with other in-way orders. ,Reasons for the provincial system 
+Misoperation in the province ,Other reasons (void/other)
+Please ask the design center to check whether the process is correct. ,Other reasons (void/other)
+It has stopped. ,Reasons for the provincial system 
+OTMS has no test environment and is forced to pass the order. ,Other reasons (void/other)
+Research institute program problems ,Reasons for the design center plan 
+The address is wrong and has been stopped.,Other reasons (void/other)
+"SDN_CN2PE_OTN-CN2 three-layer VPN access_installation_device configuration_link reverse card list, waste order, group arrangement has adjusted the shutdown process ",Reasons for the design center plan 
+OTMS has no test environment and is forced to pass the order. ,Other reasons (void/other)
+Group orchestration interface problems ,Reasons for the group system 
+"RES_IP_CN2PE_MPLS_L3VPN_configuration new_link, waste order, to be adjusted and developed by the group ",Reasons for the group system 
+OTMS has no test environment and is forced to pass the order. ,Other reasons (void/other)
+"Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api The group's arrangement problem has been dealt with and re-adjusted. It has been issued to the province, and the name of the provincial resource return order does not exist. ",Reasons for the provincial system 
+The test list is invalid. ,Other reasons (void/other)
+OTMS has no test environment and is forced to pass the order. ,Other reasons (void/other)
+OTMS has no test environment and is forced to pass the order. ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+Waiting for the provincial resource archiving callback ,Other reasons (void/other)
+"At that time, 5G access had not been started, and the order could not be opened through PSR; the order problem ",To be determined (other reasons) (write notes) 
+Caused by the misoperation of the re-dissiption button in the province ,Other reasons (void/other)
+Wait for the provincial resource network ASBR equipment resource allocation return ,Other reasons (void/other)
+Caused by the misoperation of the re-dissiption button in the province ,Other reasons (void/other)
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api The group's choreography problem is re-adjusted and sent to provincial resources. The abnormal asynchronous callback of provincial resources cannot find the circuit information according to the circuit code. ,Other reasons (void/other)
+The problem of placing an order ,To be determined (other reasons) (write notes) 
+"The old plane test sheet of pon has been abandoned, and the PON test is subject to the latest test sheet. ",Other reasons (void/other)
+"The old plane test sheet of pon has been abandoned, and the PON test is subject to the latest test sheet. ",Other reasons (void/other)
+"The old plane test sheet of pon has been abandoned, and the PON test is subject to the latest test sheet. ",Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+Test list for January ,To be determined (other reasons) (write notes) 
+Test list for January ,To be determined (other reasons) (write notes) 
+Test list for January ,To be determined (other reasons) (write notes) 
+"The order is the previous test order, which is no longer needed and can be discarded. ",Other reasons (void/other)
+Provincial arrangement of unanalyzed processes and waste orders ,Reasons for the provincial system 
+"CFS cloud private network product_installation_service design_link abnormal professional labor, service_id violates the limit of not empty ",Reasons for the provincial system 
+IPRAN PW access to RFS_installation_on-site construction_link (on-site construction) waiting for the group to release dependence and wait ,Other reasons (void/other)
+The resource allocation card has not been processed manually. ,Reasons for the provincial system 
+"The CRM interface was not adjusted, and it was not successful until it was re-adjusted. ",Reasons for the group system 
+"The group's choreography process was wrong, and the rate change was directly archived. ",Other reasons (void/other)
+Local network group CRM has not been imported into CE_COUNTRY district and county field ,Other reasons (void/other)
+The group resource RFS test data has been deleted and the process cannot be archived. ,Reasons for the group system 
+Repeat the order,Reasons for the group system 
+The local network could not open business at that time. ,To be determined (other reasons) (write notes) 
+As a result of server restart ,Reasons for the provincial system 
+"Due to the lack of nodes in downstream feedback, the group's arrangement increases the verification and the increase of verification.",Reasons for the provincial system 
+Provincial resource data issues ,Reasons for the provincial system 
+"Due to the lack of nodes in downstream feedback, the group's arrangement increases the verification and the increase of verification.",Reasons for the provincial system 
+The reason has not been identified for a long time.,To be determined (other reasons) (write notes) 
+Waste order ,Other reasons (void/other)
+"Due to the lack of nodes in downstream feedback, the group's arrangement increases the verification and the increase of verification.",Reasons for the provincial system 
+And other provincial resources OTN aggregation equipment resource allocation return ,Reasons for the provincial system 
+And other provincial resources OTN aggregation equipment resource allocation return ,Reasons for the provincial system 
+OTMS has no test environment and is forced to pass the order. ,Other reasons (void/other)
+"OTN Ethernet link RFS_resource configuration_link, return exception, request message format verification exception ",Reasons for the provincial system 
+OTN Ethernet link RFS_on-site construction_api no reply ,Reasons for the provincial system 
+Waste order ,Other reasons (void/other)
+The provincial resource callback interface is empty. ,Reasons for the provincial system 
+"Due to the lack of nodes in downstream feedback, the group's arrangement increases the verification and the increase of verification.",Reasons for the provincial system 
+Mandatory order ,Other reasons (void/other)
+The group's long-distance resource interface has not been called back and responded. Just re-adjust it. ,Reasons for the group system 
+"Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api The group's arrangement problem will be re-adjusted and sent to the provincial resources, waiting for the provincial resource return. ",Reasons for the provincial system 
+"The two-way verification interface of the group's resources is reported to 400, which affects the interconnection IP verification, and can be re-adjusted in the province. ",Reasons for the group system 
+You can't issue a business if you place an order on the local network. ,To be determined (other reasons) (write notes) 
+"Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api The group's arrangement problem has been re-adjusted and has been sent to the provincial resources, waiting for the provincial resources to be returned. ",Other reasons (void/other)
+Local network arrangement has not been transmitted to CE_COUNTRY district and county fields ,Reasons for the group system 
+Provincial resource OTN convergence equipment callback relay link is empty ,Reasons for the provincial system 
+Mandatory order ,Other reasons (void/other)
+"Multiple sets of data are configured during manual processing in the province, and the return order cannot be completed. ",Other reasons (void/other)
+Provincial resource OTN convergence equipment callback relay link is empty ,Reasons for the provincial system 
+Mandatory order ,Other reasons (void/other)
+"The relevant interface address of OTN access is not provided when placing the order, and the order cannot be dispatched. At present, the rollback of the service design has been carried out, which is not in this link. ",To be determined (other reasons) (write notes) 
+Mandatory order ,Other reasons (void/other)
+OTN Ethernet link RFS_resource configuration_link no return ,Reasons for the provincial system 
+OTN-CN2 three-layer VPN access RFS_resource configuration_link no return order ,Reasons for the provincial system 
+The local network could not open business at that time. ,To be determined (other reasons) (write notes) 
+The relay link information configured in the province is inconsistent with that of the group. ,Reasons for the provincial system 
+This work order has not been found in the province. ,Other reasons (void/other)
+"At present, the provincial control test environment can only be manually confirmed and returned. At present, the order has been returned. ",Reasons for the provincial system 
+"Due to the lack of nodes in downstream feedback, the group's arrangement increases the verification and the increase of verification.",Reasons for the provincial system 
+"Provincial resource OTN aggregation equipment resource configuration return exception: 'In the cloud private network 3.0 IPRAN, 5G, OTN multi-A scenario, the associated product instance id is empty, the data is incomplete and the resource allocation cannot be carried out, and the configuration fails!' ",Reasons for the provincial system 
+OTN Ethernet link RFS_resource configuration_link no return ,Other reasons (void/other)
+Provincial resources OTN aggregation equipment resource allocation has not been returned ,Other reasons (void/other)
+OTN Ethernet link RFS_resource configuration_link no return ,Other reasons (void/other)
+Provincial resources OTN aggregation equipment resource allocation has not been returned ,Other reasons (void/other)
+Mandatory order ,Other reasons (void/other)
+Mandatory order ,Other reasons (void/other)
+"Archived, no abnormality ",To be determined (other reasons) (write notes) 
+The relay link information configured in the province is inconsistent with that of the group. ,Reasons for the provincial system 
+"The new installation of the order in the province has not been archived, and the disassembly process will be carried out.",Reasons for the group system 
+The problem of placing an order ,Other reasons (void/other)
+"There is no configured port in the test environment in the province, and the resources cannot be configured. ",Other reasons (void/other)
+Test order ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+Test order ,Other reasons (void/other)
+Ordering problems in the group's province ,Other reasons (void/other)
+Local network arrangement has not been transmitted to CE_COUNTRY district and county fields ,Reasons for the group system 
+"The address was not provided when placing the order, and the address was signed and configured. The order cannot be dispatched. At present, the configuration has been completed.",Reasons for the provincial system 
+OTN Ethernet link RFS_resource configuration_link no return ,Reasons for the provincial system 
+Mandatory order ,Other reasons (void/other)
+Provincial resources OTN aggregation equipment resource allocation has not been returned ,Reasons for the provincial system 
+Mandatory order ,Other reasons (void/other)
+Mandatory order ,Other reasons (void/other)
+Mandatory order ,Other reasons (void/other)
+Mandatory order ,Other reasons (void/other)
+Manual receipt for provincial comprehensive adjustment ,Other reasons (void/other)
+"The old plane test sheet of pon has been abandoned, and the PON test is subject to the latest test sheet. ",Other reasons (void/other)
+"Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api The group's arrangement problem is re-adjusted and sent to provincial resources. The provincial resource callback is abnormal, and the circuit information cannot be found according to the circuit code. ",Other reasons (void/other)
+The problem of placing an order ,To be determined (other reasons) (write notes) 
+"At present, the provincial control test environment can only be manually confirmed and returned. At present, the order has been returned. ",Reasons for the provincial system 
+"The previous PON transfer test order was not complete due to the incomplete test process, and the waste order was stopped at the front desk. ",Reasons for the design center plan 
+This is the value issued by the group CRM. ,Reasons for the group system 
+"Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api The group's arrangement problem is re-adjusted and sent to provincial resources. The provincial resource callback is abnormal, and the circuit information cannot be found according to the circuit code. ",Other reasons (void/other)
+"It is necessary to verify the consistency of link information controller, resources and control information in the province, and unify the data link information in the early stage. ",Reasons for the provincial system 
+OTN Ethernet link RFS_resource configuration_link no return ,Reasons for the provincial system 
+OTN Ethernet link RFS_resource configuration_link no return ,Reasons for the provincial system 
+OTN Ethernet link RFS_resource configuration_link no return ,Reasons for the provincial system 
+OTN Ethernet link RFS_resource configuration_link no return ,Reasons for the provincial system 
+Provincial resources OTN aggregation equipment resource allocation has not been returned ,Reasons for the provincial system 
+Mandatory order ,Other reasons (void/other)
+OTN Ethernet link RFS_resource configuration_link no return ,Reasons for the provincial system 
+"The address was not provided when placing the order, and the address was signed and configured. The order cannot be dispatched. At present, the configuration has been completed.",Reasons for the provincial system 
+Mandatory order ,Other reasons (void/other)
+OTN Ethernet link RFS_resource configuration_link no return ,Reasons for the provincial system 
+Mandatory order ,Other reasons (void/other)
+Mandatory order ,Other reasons (void/other)
+Research institute program problems ,Reasons for the design center plan 
+CRM does not issue fields ,Reasons for the group system 
+"Callback arrangement, waiting for the follow-up process, arrangement has not called the follow-up process groupThe group's arrangement problem has been re-adjusted, the order has been passed, the code has been updated, and the service has been restarted. ",Other reasons (void/other)
+"At present, the provincial control test environment can only be manually confirmed and returned. At present, the order has been returned. ",Reasons for the provincial system 
+"Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api The group's arrangement problem has been re-adjusted, and the order has been passed. ",Other reasons (void/other)
+Provincial resources OTN aggregation equipment resource allocation has not been returned ,Reasons for the provincial system 
+Reserve for resource-free construction and mining process development and testing,To be determined (other reasons) (write notes) 
+Provincial resources OTN aggregation equipment resource allocation has not been returned ,Reasons for the provincial system 
+Mandatory order ,Other reasons (void/other)
+"Test environmental data problems, unable to allocate data ",Other reasons (void/other)
+"The resources have been successfully returned, and the group arrangement is called again? ",Other reasons (void/other)
+Stop opening the non-re-order. ,Reasons for the provincial system 
+Metropolitan Area Network-CN2 three-layer VPN access RFS_disassembly_api no receipt,Reasons for the provincial system 
+"Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api The group's arrangement problem has been re-adjusted. At present, this link has been ordered. ",Other reasons (void/other)
+It has stopped. ,Other reasons (void/other)
+"Test environmental data problems, unable to allocate data ",Other reasons (void/other)
+"Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api The group's arrangement problem has been re-adjusted and sent to provincial resources. The abnormal resNetAsbr node of the provincial resource order is empty.PW RFS is not completed. This link is distributed in advance when the group arranges and reissues it. According to the dependency rules, the dependency should not be removed in advance at this time. Provincial resources cannot process the ASBR configuration at the same time in order to complete the PW resource configuration. ",Reasons for the provincial system 
+"At present, ONT has no automatic configuration and is already under development. ",Other reasons (void/other)
+Test waste order ,Reasons for the provincial system 
+Misoperation in the province leads to repeated links. ,Other reasons (void/other)
+Provincial resource network ASBR equipment timeout ,Reasons for the provincial system 
+The ipv4 address is empty. ,Reasons for the provincial system 
+"Stop the scene, the plan is being formulated. ",Other reasons (void/other)
+OTN Ethernet Link RFS_No return for on-site construction ,Reasons for the provincial system 
+Mandatory order ,Other reasons (void/other)
+"The process problem should pass the A8-C IP change process. At present, it has not flowed in accordance with the IP change process, and it has been in the cloud-effective bill of lading. ",Reasons for the design center plan 
+The test list is invalid. ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+"No one took the order in the test environment, and now the order is returned. ",Reasons for the provincial system 
+"The old plane test sheet of pon has been abandoned, and the PON test is subject to the latest test sheet. ",Other reasons (void/other)
+Provincial arrangement without reply ,Other reasons (void/other)
+The ipran test sheet has been completed. ,Reasons for the provincial system 
+The ipranAAA test list has been abandoned at present.,Other reasons (void/other)
+Test list,Reasons for the provincial system 
+The ipran test sheet has been completed. ,Reasons for the provincial system 
+The otn test sheet has been completed. ,Reasons for the provincial system 
+"Successful callback arrangement, no abnormality ",Other reasons (void/other)
+"The data has not been found in the resource production of the relay group of the provincial resource OTN aggregation equipment configuration, and the provincial resources need to check whether the relay has been completed. ",Other reasons (void/other)
+"Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api The group's arrangement problem has been re-adjusted and sent to the province, waiting for the provincial resource callback. ",Reasons for the provincial system 
+In the waiting process of dependence ,Collaborative dependence 
+In the waiting process of dependence ,Other reasons (void/other)
+In the waiting process of dependence ,Other reasons (void/other)
+In the waiting process of dependence ,Other reasons (void/other)
+In the waiting process of dependence ,Other reasons (void/other)
+Waiting for provincial resources OTN aggregation equipment configuration callback ,Reasons for the provincial system 
+Misoperation in the province leads to repeated links. ,Other reasons (void/other)
+Misoperation in the province leads to repeated links. ,Other reasons (void/other)
+Misoperation in the province leads to repeated links. ,Other reasons (void/other)
+Program issues ,Reasons for the design center plan 
+The receipt has been returned ,Other reasons (void/other)
+Mandatory order ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+In the waiting process of dependence ,Reasons for the group system 
+It has stopped. ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+Test list for January ,Other reasons (void/other)
+Test list for February ,Other reasons (void/other)
+"Resource parameter problem, AZ-side resource feedback format verification does not pass ",Reasons for the provincial system 
+"After the successful provincial resource callback, it will be arranged. ",To be determined (other reasons) (write notes) 
+The scene has been stopped. ,Other reasons (void/other)
+"Stop the scene, the plan is being formulated. ",Other reasons (void/other)
+Program issues ,Reasons for the design center plan 
+Program issues ,Reasons for the design center plan 
+Mandatory order ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+"OTN test sheet, discarded ",Other reasons (void/other)
+The ipran supplementary test sheet is currently being tested. ,Reasons for the provincial system 
+Test list,Reasons for the provincial system 
+It has stopped opening now. ,To be determined (other reasons) (write notes) 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api ,Other reasons (void/other)
+Program issues ,Reasons for the design center plan 
+Program issues ,Reasons for the design center plan 
+Program issues ,Reasons for the design center plan 
+Mandatory order ,Other reasons (void/other)
+Mandatory order ,Other reasons (void/other)
+Mandatory order ,Other reasons (void/other)
+Mandatory order ,Other reasons (void/other)
+Mandatory order ,Other reasons (void/other)
+It has been archived. Now the resource can't find this list. Did you do something else? ,Reasons for the provincial system 
+Repeated callbacks of provincial resources lead to abnormal allocation ,Other reasons (void/other)
+Mandatory order ,Other reasons (void/other)
+Mandatory order ,Other reasons (void/other)
+"The interface call problem is not available; the comprehensive call reuses the return interface, but the message verification does not pass, contact the group for arrangement assistance.",Reasons for the provincial system 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Other reasons (void/other)
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Other reasons (void/other)
+"Test sheet, manual link ",Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+The reply is wrong. ,Reasons for the provincial system 
+Mandatory order ,Other reasons (void/other)
+The reply is wrong. ,Reasons for the provincial system 
+Recurring distribution service design in the province ,Other reasons (void/other)
+"Accept the problem, the test environment does not have the installation address. ",Other reasons (void/other)
+Misoperation in the province leads to repeated links. ,Other reasons (void/other)
+Misoperation in the province leads to repeated links. ,Other reasons (void/other)
+The receipt has been returned ,Reasons for the group system 
+It has stopped. ,Other reasons (void/other)
+The receipt has been returned ,Reasons for the group system 
+Mandatory order ,Other reasons (void/other)
+"At present, the provincial resources in this link have been returned and arranged. ",Reasons for the provincial system 
+The order has not been received ,Reasons for the provincial system 
+The provincial resources of this link have been returned and stopped. ,Reasons for the provincial system 
+The test list is invalid. ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+The interface has been re-adjusted and circulated. ,Reasons for the group system 
+It has stopped. ,Other reasons (void/other)
+It has stopped. ,Other reasons (void/other)
+Provincial resource process problems ,Reasons for the provincial system 
+"Accept the problem, the test environment does not have the installation address. ",Other reasons (void/other)
+Mandatory order ,Other reasons (void/other)
+It has stopped. ,Other reasons (void/other)
+The single-end circuit does not exist. ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+Test list,Reasons for the provincial system 
+The test list is invalid. ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+The interface has been re-adjusted and circulated. ,Reasons for the group system 
+The test environment uses the resource data configured in the province. The group system cannot pass the audit. ,Reasons for the group system 
+The model data has been added to the group's resources. The list has not been completed and has been archived after completion. ,Reasons for the group system 
+It has stopped. ,Other reasons (void/other)
+The test environment uses the resource data configured in the province. The group system cannot pass the audit. ,Other reasons (void/other)
+"The shutdown scenario test has been completed, and the order has been scrapped. ",Other reasons (void/other)
+The receipt has been returned ,Other reasons (void/other)
+Mandatory order ,Other reasons (void/other)
+Test waste order ,Other reasons (void/other)
+Program issues ,Reasons for the group system 
+It has stopped. ,Other reasons (void/other)
+Due to repeated dispatches in the province ,Reasons for the provincial system 
+"The release card is stuck, and the call has been returned. ",Reasons for the group system 
+The test list is invalid. ,Other reasons (void/other)
+Resource data in preparation for testing ,Other reasons (void/other)
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+It has stopped. ,Other reasons (void/other)
+Mandatory order ,Other reasons (void/other)
+Test list,Reasons for the provincial system 
+The test list is invalid. ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+Test list,Reasons for the provincial system 
+The test list is invalid. ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+3A circuit provincial resource allocation link and opposite-end circuit repeat ,Reasons for the provincial system 
+The test list is invalid. ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+The receipt has been returned ,Reasons for the group system 
+The test list is invalid. ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api ,Other reasons (void/other)
+The list has been returned. ,Reasons for the group system 
+Provincial resource logic ,Reasons for the provincial system 
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api ,Other reasons (void/other)
+It has stopped. ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+"Test environmental data problems, unable to allocate data ",Other reasons (void/other)
+"Because the group CRM did not support the scene where the patch was stopped at that time, the waste order has been stopped.",Other reasons (void/other)
+Test environment manual order ,Other reasons (void/other)
+"The shutdown scenario test has been completed, and the order has been scrapped. ",Other reasons (void/other)
+Test environment manual order ,Other reasons (void/other)
+Resource data in preparation for testing ,Other reasons (void/other)
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+"There is no abnormality, and the list has been archived. ",Other reasons (void/other)
+"The shutdown scenario test has been completed, and the order has been scrapped. ",Other reasons (void/other)
+"The shutdown scenario test has been completed, and the order has been scrapped. ",Other reasons (void/other)
+"There is no abnormality, and the list has been archived. ",Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+"The shutdown scenario test has been completed, and the order has been scrapped. ",Other reasons (void/other)
+"Provincial resource callback relay production has not been completed, and does not meet the test conditions Kunming/Xiyuan-Xiyuan/ ",Reasons for the provincial system 
+"At present, there is no abnormality, and the order for the suspension link has passed. ",Other reasons (void/other)
+Parameter error: single-end circuit does not exist ,To be determined (other reasons) (write notes) 
+Parameter error: single-end circuit does not exist ,To be determined (other reasons) (write notes) 
+The receipt has been returned ,Reasons for the group system 
+"Test environmental data problems, unable to allocate data ",Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+Test system data problems ,Reasons for the provincial system 
+Test system data problems ,Reasons for the provincial system 
+Test system data problems ,Reasons for the provincial system 
+Test system data problems ,Reasons for the provincial system 
+Test waste order ,Other reasons (void/other)
+Mandatory order ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+The bandwidth of the single-ended circuit of the VPN circuit exceeds the limit. ,Other reasons (void/other)
+Waiting for provincial resource rollback ,Reasons for the provincial system 
+Program issues ,Reasons for the design center plan 
+The test list is invalid. ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+"The shutdown scenario test has been completed, and the order has been scrapped. ",Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+"The shutdown scenario test has been completed, and the order has been scrapped. ",Other reasons (void/other)
+"The shutdown scenario test has been completed, and the order has been scrapped. ",Other reasons (void/other)
+"Dependency problem, provincial arrangement dependency abnormality ",Collaborative dependence 
+"Test environmental data problems, unable to allocate data ",Other reasons (void/other)
+"Dependency problem, provincial arrangement dependency abnormality ",Collaborative dependence 
+The test list is invalid. ,Other reasons (void/other)
+The VPN circuit does not exist. ,Reasons for the group system 
+"At present, the relay of the non-standard service provincial resource allocation is currently a new plane relay, and no link role field is returned. ",Reasons for the provincial system 
+The test list is invalid. ,Other reasons (void/other)
+"Provincial resource callback relay production has not been completed online, and does not meet the test conditions Kunming/Xiyuan-Xiyuan ",Reasons for the provincial system 
+The test list is invalid. ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+"Accept the problem, the test environment does not have the installation address. ",Other reasons (void/other)
+"Accept the problem, the test environment does not have the installation address. ",Other reasons (void/other)
+Test environment manual order ,Other reasons (void/other)
+OTMS is not eligible. ,Other reasons (void/other)
+OTMS is not eligible. ,Other reasons (void/other)
+OTMS is not eligible. ,Other reasons (void/other)
+Feedback errors in the province ,Reasons for the provincial system 
+The return time of provincial resources is that the order has been passed at present. ,Reasons for the provincial system 
+Waiting for the reply of provincial resource allocation ,Reasons for the provincial system 
+The test list is invalid. ,Other reasons (void/other)
+The test list is invalid. ,Other reasons (void/other)
+The test environment controller can't be verified. It's better to find a group arrangement. ,Other reasons (void/other)
+The test environment controller can't be verified. It's better to find a group arrangement. ,Other reasons (void/other)
+The test environment controller can't be verified. It's better to find a group arrangement. ,Other reasons (void/other)
+The test environment controller can't be verified. It's better to find a group arrangement. ,Other reasons (void/other)
+This business is a test shutdown scenario. The cancellation has been completed and does not belong to the card list.,Other reasons (void/other)
+This business is a test shutdown scenario. The cancellation has been completed and does not belong to the card list.,Other reasons (void/other)
+The MTU change value of the research institute's arrangement package has not been added. ,Reasons for the group system 
+The MTU change value of the research institute's arrangement package has not been added. ,Reasons for the group system 
+Normal test transfer ,Other reasons (void/other)
+Normal test transfer ,Other reasons (void/other)
+OTMS is not eligible. ,Other reasons (void/other)
+The test environment controller can't be verified. It's better to find a group arrangement. ,Other reasons (void/other)
+The test environment controller can't be verified. It's better to find a group arrangement. ,Other reasons (void/other)
+The test environment controller can't be verified. It's better to find a group arrangement. ,Other reasons (void/other)
+The test environment controller can't be verified. It's better to find a group arrangement. ,Other reasons (void/other)
+Waiting for the reply of provincial resource allocation ,Reasons for the provincial system 
+The abnormal flow of processes in the province has been solved. ,Reasons for the provincial system 
+The test environment controller can't be verified. It's better to find a group arrangement. ,Other reasons (void/other)
+This business is a test shutdown scenario. The cancellation has been completed and does not belong to the card list.,Other reasons (void/other)
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+Normal test transfer ,Other reasons (void/other)
+The test stopped. ,Other reasons (void/other)
+The test stopped. ,Other reasons (void/other)
+The MTU change value of the research institute's arrangement package has not been added. ,Reasons for the group system 
+The MTU change value of the research institute's arrangement package has not been added. ,Reasons for the group system 
+"Provincial resources reply that the address has no resources configured, and now it needs to be stopped. ",Collaborative dependence 
+Resource data in preparation for testing ,Other reasons (void/other)
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer VPN access RFS_resource configuration_api ,Collaborative dependence 
+Resource data in preparation for testing ,Other reasons (void/other)
+Did not receive the call to the group's arranged IPRAN-CN2 three-layer EVPN access RFS_resource configuration_api ,Collaborative dependence 
+"The provincial resources have not been returned, and the order has been suspended at present. ",Reasons for the provincial system 
+: IPRAN PW access RFS_install_api no receipt ,Reasons for the provincial system 
+The test environment controller can't be verified. It's better to find a group arrangement. ,Other reasons (void/other)
+The test environment controller can't be verified. It's better to find a group arrangement. ,Other reasons (void/other)
+"Provincial resource callback message error, the circuit information cannot be found according to the circuit code. ",Reasons for the provincial system 
+"MTU test arrangement package error, checking the reason ",Reasons for the provincial system 
+The circuit information cannot be found according to the circuit code. ,Reasons for the provincial system 
+The normal return exceeds the timeout of the business party's configuration. ,Other reasons (void/other)
+The test environment controller can't be verified. It's better to find a group arrangement. ,Other reasons (void/other)
+The test environment controller can't be verified. It's better to find a group arrangement. ,Other reasons (void/other)
+The test environment controller can't be verified. It's better to find a group arrangement. ,Other reasons (void/other)
+The test environment controller can't be verified. It's better to find a group arrangement. ,Other reasons (void/other)
+The test environment controller can't be verified. It's better to find a group arrangement. ,Other reasons (void/other)
+The test environment controller can't be verified. It's better to find a group arrangement. ,Other reasons (void/other)
+The test environment controller can't be verified. It's better to find a group arrangement. ,Other reasons (void/other)
+The test order has been stopped and has been withdrawn. ,Reasons for the provincial system 
+The test order has been stopped and has been withdrawn. ,Reasons for the provincial system 
+The test order has been stopped and has been withdrawn. ,Reasons for the provincial system 
+The test order has been stopped and has been withdrawn. ,Reasons for the provincial system 
+: IPRAN PW access to RFS_change_api no return order ,Reasons for the provincial system 
+The test environment controller can't be verified. It's better to find a group arrangement. ,Other reasons (void/other)
+The test environment controller can't be verified. It's better to find a group arrangement. ,Other reasons (void/other)
+The list has been stopped and there is no abnormality. ,Other reasons (void/other)
+The test environment controller can't be verified. It's better to find a group arrangement. ,Other reasons (void/other)
+The test environment controller can't be verified. It's better to find a group arrangement. ,Other reasons (void/other)
+OTMS is not eligible. ,Other reasons (void/other)
+"After the function test of the provincial arrangement version, the provincial arrangement has been solved. ",Reasons for the provincial system 
+It has stopped. ,Other reasons (void/other)
+It has stopped. ,Other reasons (void/other)
+"The provincial resource interface reports errors synchronously, and wait for the provincial resource reply after re-adjustment. ",Reasons for the provincial system 
+: IPRAN PW access to RFS_change_api no return order ,Reasons for the provincial system 
+The relay of the provincial resource callback configuration of the new service circuit is the old plane relay. ,Reasons for the provincial system 
+The group looked at the provincial Zhongying's unreturned order. ,Reasons for the provincial system 
+"The order has been returned in the province. At present, the group's arrangement has not generated a follow-up link. ",Reasons for the provincial system 
+The abnormal flow of processes in the province has been solved. ,Reasons for the provincial system 
+The abnormal flow of processes in the province has been solved. ,Reasons for the provincial system 
+Parameter error: single-terminal circuit does not exist ,Other reasons (void/other)
+Parameter error: single-terminal circuit does not exist ,Other reasons (void/other)
+The abnormal flow of processes in the province has been solved. ,Other reasons (void/other)
+"After the function test of the provincial arrangement version, the provincial arrangement has been solved. ",Reasons for the provincial system 
+The feedback parameter value of Ethernet link resource configuration is incorrect. ,Other reasons (void/other)
+"At that time, the environment in the province was restarted. The group was successfully rearranged. The order has been cancelled. ",Reasons for the provincial system 
